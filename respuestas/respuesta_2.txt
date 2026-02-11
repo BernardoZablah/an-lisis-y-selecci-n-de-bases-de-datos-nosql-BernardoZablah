@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+2-bd-clave-valor | Su estructura de diccionario simple permite lecturas instantáneas mediante un identificador único, garantizando la máxima velocidad necesaria para validar credenciales y sesiones efímeras. 
