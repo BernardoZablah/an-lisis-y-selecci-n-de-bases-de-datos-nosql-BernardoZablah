@@ -1,1 +1,1 @@
-5-bd-grafos |  Al priorizar las conexiones directas entre nodos, este modelo facilita descubrir patrones complejos e interrelaciones entre entidades de forma mucho más natural y eficaz que otros sistemas.
+GRAFOS |  Al priorizar las conexiones directas entre nodos, este modelo facilita descubrir patrones complejos e interrelaciones entre entidades de forma mucho más natural y eficaz que otros sistemas.

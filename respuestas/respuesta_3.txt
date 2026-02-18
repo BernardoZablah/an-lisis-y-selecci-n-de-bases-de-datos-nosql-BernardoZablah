@@ -1,1 +1,1 @@
-3-bd-columnares | Diseñada para soportar altos flujos de escritura y organizar la información en familias, es la opción más robusta para gestionar históricos masivos y realizar análisis temporales ágiles.
+COLUMNARES | Diseñada para soportar altos flujos de escritura y organizar la información en familias, es la opción más robusta para gestionar históricos masivos y realizar análisis temporales ágiles.
